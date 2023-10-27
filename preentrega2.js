@@ -736,7 +736,3 @@ function consultaUsuario () {
 }
 
 consultaUsuario();
-
-
-
-
